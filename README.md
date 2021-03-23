@@ -29,5 +29,5 @@ You will also see any lint errors in the console.
 
 ## Project Netlify Deploy
 
-Deployed Project : [Drum Kit](https://budgetapptracker.netlify.app/)
+Deployed Project : [Drum Kit](https://drumkitjs1.netlify.app/)
 
